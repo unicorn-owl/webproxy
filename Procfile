@@ -1,1 +1,1 @@
-web: herokuAddr=reverseweb.herokuapp.com npm run start
+web: herokuAddr=reversegoogle.herokuapp.com npm run start
