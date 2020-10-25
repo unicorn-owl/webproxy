@@ -1,1 +1,1 @@
-web: herokuAddr=macos2021.herokuapp.com npm run start
+web: herokuAddr=macos2022.herokuapp.com npm run start
