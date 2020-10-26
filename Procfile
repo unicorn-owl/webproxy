@@ -1,1 +1,1 @@
-web: herokuAddr=yakyzfrjocxbcam.herokuapp.com npm run start
+web: herokuAddr=etngygqfmckmznu.herokuapp.com npm run start
