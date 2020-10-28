@@ -1,6 +1,6 @@
 
-heroku create wpjgtjrwkunjgwl
-heroku git:remote -a wpjgtjrwkunjgwl
+heroku create zcspidauvyulrpu
+heroku git:remote -a zcspidauvyulrpu
 
 git push heroku master
 
