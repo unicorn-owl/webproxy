@@ -1,6 +1,6 @@
 
-heroku create olsrodoigsshvasrym
-heroku git:remote -a olsrodoigsshvasrym
+heroku create jzcewheysqrdsxwwpu
+heroku git:remote -a jzcewheysqrdsxwwpu
 
 git push heroku master
 
